@@ -27,4 +27,4 @@ Welcome to the ASP Ecommerce project, a robust platform for online shopping deve
    - Clone this repository to your local machine.
 
 ```bash
-git clone https://github.com/yourusername/asp-ecommerce-project.git
+git clone https://github.com/avichay904/Ecommerce.git
